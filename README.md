@@ -42,6 +42,7 @@ The performance of the trained Random Forest and SVC models was rigorously asses
 To replicate this analysis, you will need a Python environment with the following core libraries installed: `pandas` (for data manipulation), `matplotlib` and `seaborn` (for visualization), and `scikit-learn` (for machine learning tasks including preprocessing, modeling, and evaluation).
 
 1.  Ensure the `enhanced_dataset.csv` file is accessible in the path specified within the notebooks, or update the file path accordingly.
+   
 2.  Execute the Jupyter notebooks:
     *   Run `PR_ML_idea1.ipynb` for the initial data loading, exploration, and preliminary cleaning steps.
     *   Run `PR_ML_idea2.ipynb` to perform the main classification workflow, including specific preprocessing, feature engineering, model training (Random Forest and SVC), and performance evaluation.
