@@ -31,7 +31,7 @@ After preprocessing, the dataset was divided into training (80% of the data) and
 
 ### Evaluation
 
-The performance of the trained Random Forest and SVC models was rigorously assessed on the unseen test set using several standard classification metrics:
+### The performance of the trained Random Forest and SVC models was rigorously assessed on the unseen test set using several standard classification metrics:
 
 *   **Accuracy:** Both models demonstrated exceptionally high predictive accuracy, achieving approximately 99.99%.
 *   **Classification Report:** This provided a detailed breakdown of performance, including precision, recall, and F1-score for each class ('normal' and 'unusual'). These metrics offer insights into the models' ability to correctly identify each specific clickstream pattern.
