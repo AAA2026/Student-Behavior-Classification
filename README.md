@@ -4,7 +4,7 @@ This project analyzes a comprehensive dataset of student academic and behavioral
 
 ### Dataset
 
-The analysis utilizes the `enhanced_dataset.csv` file, which contains 105,645 records, each representing a student instance with 29 distinct features. This rich dataset includes a variety of information categories:
+### The analysis utilizes the `enhanced_dataset.csv` file, which contains 105,645 records, each representing a student instance with 29 distinct features. This rich dataset includes a variety of information categories:
 
 *   **Demographics:** Features such as gender, major, country of origin, and academic year level.
 *   **Academic Performance:** Metrics like Grade Point Average (GPA), midterm scores, average scores on assignments and quizzes, previous course scores, and attendance percentages.
