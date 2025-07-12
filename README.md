@@ -1,4 +1,4 @@
-## Students Behavior Analysis
+### Students Behavior Analysis
 
 This project analyzes a comprehensive dataset of student academic and behavioral information with the primary goal of classifying student clickstream patterns as either 'normal' or 'unusual'. The analysis encompasses several stages, including data loading, thorough preprocessing, feature engineering, training machine learning models, and evaluating their performance. The core classification workflow is detailed in the `PR_ML_idea2.ipynb` notebook, which builds upon initial data exploration and cleaning steps performed in `PR_ML_idea1.ipynb`.
 
